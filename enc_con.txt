@@ -1,0 +1,5 @@
+
+-enc / --encrypt -b85 {text}
+-enc / --encrypt -b64 {text}
+-enc / --encrypt -b32 {text}
+-enc / --encrypt -b16 {text}

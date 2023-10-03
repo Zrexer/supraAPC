@@ -1,0 +1,6 @@
+
+-ip {domain name}
+-html {https://example.url}
+-s {https://example.url}
+full-scan {https://example.url}
+scan-port {port}

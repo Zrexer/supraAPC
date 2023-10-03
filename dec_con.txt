@@ -1,0 +1,6 @@
+
+-dec / --decrypt -b85 {text}
+-dec / --decrypt -b64 {text}
+-dec / --decrypt -b32 {text}
+-dec / --decrypt -b16 {text}
+-dec / --decrypt -utf-8 {text}

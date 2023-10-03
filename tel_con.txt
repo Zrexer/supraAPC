@@ -1,0 +1,2 @@
+
+-tel / --telegram set-token {bot token} set-chat-id {chat id} set-msg {message}

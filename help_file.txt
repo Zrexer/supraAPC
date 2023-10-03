@@ -1,0 +1,13 @@
+
+[!] Need Python 3
+
+python supconsole.py -net / --network -h
+
+python supconsole.py -tel / --telegram -h
+
+python supconsole.py -enc / --encrypt -h
+
+python supconsole.py -dec / --decrypt -h
+
+
+[+] when you say -h or --help or ? , the help file is open and you can see the options
