@@ -2,7 +2,7 @@
 Supra But its a Console Application :)
 
 # Version
-its 1.7.3 Version of (supra)[https://github.com/Zrexer/supraFramework]
+its 1.7.3 Version of supra (https://github.com/Zrexer/supraFramework)
 
 # Usage
 python3 supconsole.py -h 
